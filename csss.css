@@ -1,0 +1,19 @@
+body {
+    background-color: lightgreen;
+    margin: 0;
+    padding: 20px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+	border: 2px solid lightyellow;
+	border-radius: 20px;
+}
+
+
+label {
+    margin-bottom: 5px;
+}
